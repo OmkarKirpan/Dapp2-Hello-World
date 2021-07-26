@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmkarKirpan/Dapp2-Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmkarKirpan/Dapp2-Hello-World/issues"
+  },
+  "homepage": "https://github.com/OmkarKirpan/Dapp2-Hello-World#readme"
+}
