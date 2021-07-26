@@ -28,6 +28,10 @@ truffle test
 ```
 
 ```sh
+truffle compile
+```
+
+```sh
 truffle develop
 ```
 
